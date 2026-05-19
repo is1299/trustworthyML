@@ -36,7 +36,7 @@ Calibration curves were used to evaluate whether predicted probabilities aligned
 
 The project analyzes confidence distributions for correct and incorrect predictions to identify potentially unsafe overconfident model behavior.
 
-![Confidence Distribution](figures/confidence_distribution.png)
+![Confidence Distribution](figures/confidence_errors.png)
 
 ---
 
